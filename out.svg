@@ -1,0 +1,169 @@
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg2"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="logic_gates.png"
+   inkscape:export-xdpi="434.31"
+   inkscape:export-ydpi="434.31"
+   inkscape:version="0.48.1 r9760"
+   width="10000"
+   height="10000"
+   sodipodi:docname="basic_logic_gates_not.svg">
+<script xlink:href="svgpan.js"/> 
+<g transform = "translate(100,300)" id="viewport"> <g transform ="translate(351.500000,-3.000000)" >
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="scale(0.4)translate(-350.12512,-540.87206)">
+    <g
+       id="g3359"
+       transform="translate(-0.48334,-1.2626907)">
+      <path
+         id="path2160"
+         d="M 351.35169,548.62453 L 371.26473,548.62453"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.9729352;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="path3149"
+         d="M 430.17601,548.62453 L 449.3819,548.62453"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.9729352;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccccccc"
+         id="path3344"
+         d="M 370.62756,548.90283 L 374.96171,544.32858 L 383.56813,552.98228 L 392.30206,544.39042 L 401.22724,553.04409 L 409.64241,544.45221 L 417.93009,553.1059 L 427.04651,544.14316 L 430.87067,548.96478"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.98287892;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+		 <text x="400" y="530" font-size="24" fill="black" >
+		R1
+		</text>
+		<text x="400" y="580" font-size="24" fill="black" >
+		2200 Ohm
+		</text>
+    </g>
+   </g>
+   </g>   <g transform="translate(202.500000,29.500000)">
+  <g
+     id="layer1">
+    <path
+       d="M 16,5.0010577 C 16,26.999992 16,26.999992 16,26.999992"
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path17478" />
+    <path
+       d="M 19.000016,26.999994 L 19.000016,5.0010588"
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path17480" />
+    <path
+       d="M 16.11348,16 L 1.69e-005,16"
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path17482" />
+    <path
+       d="M 18.980533,16 C 19.743365,16 35,16 35,16"
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path17484" />
+	 <text x="13" y="3" font-size="8" fill="black" >
+		C1
+	</text>
+	<text x="13" y="33" font-size="8" fill="black" >
+		1e-06 F
+	</text>
+  </g>
+  </g><g
+     id="g4164"
+     transform="translate(260.000000,-40.000000)">
+    <path
+       sodipodi:nodetypes="czzzc"
+       inkscape:connector-curvature="0"
+       id="path5536-8-3"
+       d="m 0.3478974,9.7865691 c 0.67934,2.0380199 2.07525,4.0760499 4.09466,4.0760499 2.01941,0 3.3781,-2.03803 4.05744,-4.0760499 0.6793396,-2.03803 2.0380296,-4.07605 4.0760496,-4.07605 2.03803,0 3.39671,2.03802 4.07605,4.07605"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="10"
+       cy="9.7865725"
+       cx="8.4999971"
+       id="path14021-7-1-7"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+	   <text x=" 4" y="-7" font-size="8" fill="black" >
+		SINE V1
+	</text>
+	<text x="4" y="30" font-size="8" fill="black" >
+		(0 5 60 0 0)
+	</text>
+  </g>
+<g
+     id="g4164"
+     transform="translate(110.000000,80.000000)">
+    <path
+       sodipodi:nodetypes="czzzc"
+       inkscape:connector-curvature="0"
+       id="path5536-8-3"
+       d="m 0.3478974,9.7865691 c 0.67934,2.0380199 2.07525,4.0760499 4.09466,4.0760499 2.01941,0 3.3781,-2.03803 4.05744,-4.0760499 0.6793396,-2.03803 2.0380296,-4.07605 4.0760496,-4.07605 2.03803,0 3.39671,2.03802 4.07605,4.07605"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="10"
+       cy="9.7865725"
+       cx="8.4999971"
+       id="path14021-7-1-7"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+	   <text x=" 4" y="-7" font-size="8" fill="black" >
+		SINE V2
+	</text>
+	<text x="4" y="30" font-size="8" fill="black" >
+		(0 5 90 0 0)
+	</text>
+  </g>
+<line x1="352.500000" y1="-0.500000" x2="320.000000" y2="-0.500000" 
+stroke-width="1" stroke="black" />
+<line x1="389.500000" y1="-0.500000" x2="420.000000" y2="-0.500000" 
+stroke-width="1" stroke="black" />
+<line x1="320.000000" y1="0.500000" x2="320.000000" y2="0.000000" 
+stroke-width="1" stroke="black" />
+<line x1="420.000000" y1="0.500000" x2="420.000000" y2="0.000000" 
+stroke-width="1" stroke="black" />
+<line x1="202.500000" y1="45.500000" x2="20.000000" y2="45.500000" 
+stroke-width="1" stroke="black" />
+<line x1="237.500000" y1="45.500000" x2="420.000000" y2="45.500000" 
+stroke-width="1" stroke="black" /><line x1="20.000000" y1="45.500000" x2="20.000000" y2="0.000000" 
+stroke-width="1" stroke="black" />
+<line x1="420.000000" y1="45.500000" x2="420.000000" y2="0.000000" 
+stroke-width="1" stroke="black" /><line x1="258.500000" y1="-30.213428" x2="220.000000" y2="-30.213428" 
+stroke-width="1" stroke="black" />
+<line x1="278.500000" y1="-30.213428" x2="320.000000" y2="-30.213428" 
+stroke-width="1" stroke="black" /><line x1="220.000000" y1="-30.213428" x2="220.000000" y2="0.000000" 
+stroke-width="1" stroke="black" />
+<line x1="320.000000" y1="-30.213428" x2="320.000000" y2="0.000000" 
+stroke-width="1" stroke="black" /><line x1="108.500000" y1="89.786573" x2="20.000000" y2="89.786573" 
+stroke-width="1" stroke="black" />
+<line x1="128.500000" y1="89.786573" x2="220.000000" y2="89.786573" 
+stroke-width="1" stroke="black" /><line x1="20.000000" y1="89.786573" x2="20.000000" y2="0.000000" 
+stroke-width="1" stroke="black" />
+<line x1="220.000000" y1="89.786573" x2="220.000000" y2="0.000000" 
+stroke-width="1" stroke="black" /><g
+     id="layer1" transform="translate(23.000000,-9.500000)rotate(90,0,0)scale(0.7)">
+    <path
+       d="M 0.5,24.5 L 24.5,24.5"
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path4098" />
+    <path
+       d="M 4.5,27.5 L 20.5,27.5"
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path4100" />
+    <path
+       d="M 16.5,30.5 L 8.5,30.5"
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path4102" />
+    <path
+       d="M 12.5,24.5 L 12.5,4.5"
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path4104" />
+  </g>	 <text x="322.000000" y="-2.000000" font-size="6" fill="black" >
+		Net2
+	</text>	 <text x="422.000000" y="-2.000000" font-size="6" fill="black" >
+		Net3
+	</text> </g></svg>
