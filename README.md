@@ -1,6 +1,6 @@
 # AC-Circuit-Solver-Updated
 
-An automated AC Circuit solver, in which the input is given in the standard SPICE NETLIST format, and the output is the visual represtantion of the circuit on a zoomable svg, and the results (currents and volatges) in the output text file.
+An automated AC Circuit solver, in which the input is given in the standard SPICE NETLIST format, and the output is the visual representation of the circuit on a zoomable svg, and the results (currents and volatges) in the output text file.
 
 To make the resulting SVG zoomable, we have used an external git repository "svgpan.js", reference: https://github.com/ariutta/svg-pan-zoom
 
